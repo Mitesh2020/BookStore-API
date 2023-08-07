@@ -1,4 +1,4 @@
-# Installing Dependencies ( type in console ) : in <a href="https://github.com/Mitesh2020/Bookstore-API/blob/main/go.mod">go.mod</a> file you will find all installed dependencies like `package.json`.
+# Install Dependencies ( type in console ) : in <a href="https://github.com/Mitesh2020/Bookstore-API/blob/main/go.mod">go.mod</a> file you will find all installed dependencies like `package.json`.
 -> go get "github.com/go-sql-driver/mysql" <br>
 -> go get "github.com/gorilla/mux" <br>
 -> go get "github.com/jinzhu/gorm" <br>
